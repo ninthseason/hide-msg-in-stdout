@@ -2,10 +2,10 @@
 
 如果直接运行main.py:
 
-![](C:\Users\23518\Desktop\proj\tricky-in-stdout\docs\secret.png)
+![](./docs/secret.png)
 
 如果运行时加点重定向：
 
-![](C:\Users\23518\Desktop\proj\tricky-in-stdout\docs\no-secret.png)
+![](./docs/no-secret.png)
 
 原理：过于明确，略。
